@@ -1,0 +1,1502 @@
+[
+  {
+    "instruction": "Cung cấp thông tin về sản phẩm theo mã SKU.",
+    "input": "Mã sản phẩm: P001",
+    "output": "Sản phẩm: Sản phẩm 1. Mô tả: Mô tả sản phẩm 1 với tính năng độc đáo.. Giá: 272,160 VND. Số lượng tồn kho: 83."
+  },
+  {
+    "instruction": "Kiểm tra tình trạng tồn kho của sản phẩm.",
+    "input": "Mã sản phẩm: P001",
+    "output": "Sản phẩm: Sản phẩm 1 còn 83 sản phẩm trong kho."
+  },
+  {
+    "instruction": "Viết mô tả marketing cho sản phẩm.",
+    "input": "Mã sản phẩm: P001",
+    "output": "Khám phá Sản phẩm 1 với mô tả sản phẩm 1 với tính năng độc đáo. Chỉ với 272,160 VND, đây là lựa chọn hoàn hảo cho bạn!"
+  },
+  {
+    "instruction": "Cung cấp thông tin về sản phẩm theo mã SKU.",
+    "input": "Mã sản phẩm: P002",
+    "output": "Sản phẩm: Sản phẩm 2. Mô tả: Mô tả sản phẩm 2 với tính năng độc đáo.. Giá: 375,614 VND. Số lượng tồn kho: 193."
+  },
+  {
+    "instruction": "Kiểm tra tình trạng tồn kho của sản phẩm.",
+    "input": "Mã sản phẩm: P002",
+    "output": "Sản phẩm: Sản phẩm 2 còn 193 sản phẩm trong kho."
+  },
+  {
+    "instruction": "Viết mô tả marketing cho sản phẩm.",
+    "input": "Mã sản phẩm: P002",
+    "output": "Khám phá Sản phẩm 2 với mô tả sản phẩm 2 với tính năng độc đáo. Chỉ với 375,614 VND, đây là lựa chọn hoàn hảo cho bạn!"
+  },
+  {
+    "instruction": "Cung cấp thông tin về sản phẩm theo mã SKU.",
+    "input": "Mã sản phẩm: P003",
+    "output": "Sản phẩm: Sản phẩm 3. Mô tả: Mô tả sản phẩm 3 với tính năng độc đáo.. Giá: 602,752 VND. Số lượng tồn kho: 279."
+  },
+  {
+    "instruction": "Kiểm tra tình trạng tồn kho của sản phẩm.",
+    "input": "Mã sản phẩm: P003",
+    "output": "Sản phẩm: Sản phẩm 3 còn 279 sản phẩm trong kho."
+  },
+  {
+    "instruction": "Viết mô tả marketing cho sản phẩm.",
+    "input": "Mã sản phẩm: P003",
+    "output": "Khám phá Sản phẩm 3 với mô tả sản phẩm 3 với tính năng độc đáo. Chỉ với 602,752 VND, đây là lựa chọn hoàn hảo cho bạn!"
+  },
+  {
+    "instruction": "Cung cấp thông tin về sản phẩm theo mã SKU.",
+    "input": "Mã sản phẩm: P004",
+    "output": "Sản phẩm: Sản phẩm 4. Mô tả: Mô tả sản phẩm 4 với tính năng độc đáo.. Giá: 287,081 VND. Số lượng tồn kho: 304."
+  },
+  {
+    "instruction": "Kiểm tra tình trạng tồn kho của sản phẩm.",
+    "input": "Mã sản phẩm: P004",
+    "output": "Sản phẩm: Sản phẩm 4 còn 304 sản phẩm trong kho."
+  },
+  {
+    "instruction": "Viết mô tả marketing cho sản phẩm.",
+    "input": "Mã sản phẩm: P004",
+    "output": "Khám phá Sản phẩm 4 với mô tả sản phẩm 4 với tính năng độc đáo. Chỉ với 287,081 VND, đây là lựa chọn hoàn hảo cho bạn!"
+  },
+  {
+    "instruction": "Cung cấp thông tin về sản phẩm theo mã SKU.",
+    "input": "Mã sản phẩm: P005",
+    "output": "Sản phẩm: Sản phẩm 5. Mô tả: Mô tả sản phẩm 5 với tính năng độc đáo.. Giá: 298,743 VND. Số lượng tồn kho: 245."
+  },
+  {
+    "instruction": "Kiểm tra tình trạng tồn kho của sản phẩm.",
+    "input": "Mã sản phẩm: P005",
+    "output": "Sản phẩm: Sản phẩm 5 còn 245 sản phẩm trong kho."
+  },
+  {
+    "instruction": "Viết mô tả marketing cho sản phẩm.",
+    "input": "Mã sản phẩm: P005",
+    "output": "Khám phá Sản phẩm 5 với mô tả sản phẩm 5 với tính năng độc đáo. Chỉ với 298,743 VND, đây là lựa chọn hoàn hảo cho bạn!"
+  },
+  {
+    "instruction": "Cung cấp thông tin về sản phẩm theo mã SKU.",
+    "input": "Mã sản phẩm: P006",
+    "output": "Sản phẩm: Sản phẩm 6. Mô tả: Mô tả sản phẩm 6 với tính năng độc đáo.. Giá: 392,971 VND. Số lượng tồn kho: 139."
+  },
+  {
+    "instruction": "Kiểm tra tình trạng tồn kho của sản phẩm.",
+    "input": "Mã sản phẩm: P006",
+    "output": "Sản phẩm: Sản phẩm 6 còn 139 sản phẩm trong kho."
+  },
+  {
+    "instruction": "Viết mô tả marketing cho sản phẩm.",
+    "input": "Mã sản phẩm: P006",
+    "output": "Khám phá Sản phẩm 6 với mô tả sản phẩm 6 với tính năng độc đáo. Chỉ với 392,971 VND, đây là lựa chọn hoàn hảo cho bạn!"
+  },
+  {
+    "instruction": "Cung cấp thông tin về sản phẩm theo mã SKU.",
+    "input": "Mã sản phẩm: P007",
+    "output": "Sản phẩm: Sản phẩm 7. Mô tả: Mô tả sản phẩm 7 với tính năng độc đáo.. Giá: 689,583 VND. Số lượng tồn kho: 243."
+  },
+  {
+    "instruction": "Kiểm tra tình trạng tồn kho của sản phẩm.",
+    "input": "Mã sản phẩm: P007",
+    "output": "Sản phẩm: Sản phẩm 7 còn 243 sản phẩm trong kho."
+  },
+  {
+    "instruction": "Viết mô tả marketing cho sản phẩm.",
+    "input": "Mã sản phẩm: P007",
+    "output": "Khám phá Sản phẩm 7 với mô tả sản phẩm 7 với tính năng độc đáo. Chỉ với 689,583 VND, đây là lựa chọn hoàn hảo cho bạn!"
+  },
+  {
+    "instruction": "Cung cấp thông tin về sản phẩm theo mã SKU.",
+    "input": "Mã sản phẩm: P008",
+    "output": "Sản phẩm: Sản phẩm 8. Mô tả: Mô tả sản phẩm 8 với tính năng độc đáo.. Giá: 406,812 VND. Số lượng tồn kho: 302."
+  },
+  {
+    "instruction": "Kiểm tra tình trạng tồn kho của sản phẩm.",
+    "input": "Mã sản phẩm: P008",
+    "output": "Sản phẩm: Sản phẩm 8 còn 302 sản phẩm trong kho."
+  },
+  {
+    "instruction": "Viết mô tả marketing cho sản phẩm.",
+    "input": "Mã sản phẩm: P008",
+    "output": "Khám phá Sản phẩm 8 với mô tả sản phẩm 8 với tính năng độc đáo. Chỉ với 406,812 VND, đây là lựa chọn hoàn hảo cho bạn!"
+  },
+  {
+    "instruction": "Cung cấp thông tin về sản phẩm theo mã SKU.",
+    "input": "Mã sản phẩm: P009",
+    "output": "Sản phẩm: Sản phẩm 9. Mô tả: Mô tả sản phẩm 9 với tính năng độc đáo.. Giá: 302,096 VND. Số lượng tồn kho: 165."
+  },
+  {
+    "instruction": "Kiểm tra tình trạng tồn kho của sản phẩm.",
+    "input": "Mã sản phẩm: P009",
+    "output": "Sản phẩm: Sản phẩm 9 còn 165 sản phẩm trong kho."
+  },
+  {
+    "instruction": "Viết mô tả marketing cho sản phẩm.",
+    "input": "Mã sản phẩm: P009",
+    "output": "Khám phá Sản phẩm 9 với mô tả sản phẩm 9 với tính năng độc đáo. Chỉ với 302,096 VND, đây là lựa chọn hoàn hảo cho bạn!"
+  },
+  {
+    "instruction": "Cung cấp thông tin về sản phẩm theo mã SKU.",
+    "input": "Mã sản phẩm: P010",
+    "output": "Sản phẩm: Sản phẩm 10. Mô tả: Mô tả sản phẩm 10 với tính năng độc đáo.. Giá: 225,162 VND. Số lượng tồn kho: 117."
+  },
+  {
+    "instruction": "Kiểm tra tình trạng tồn kho của sản phẩm.",
+    "input": "Mã sản phẩm: P010",
+    "output": "Sản phẩm: Sản phẩm 10 còn 117 sản phẩm trong kho."
+  },
+  {
+    "instruction": "Viết mô tả marketing cho sản phẩm.",
+    "input": "Mã sản phẩm: P010",
+    "output": "Khám phá Sản phẩm 10 với mô tả sản phẩm 10 với tính năng độc đáo. Chỉ với 225,162 VND, đây là lựa chọn hoàn hảo cho bạn!"
+  },
+  {
+    "instruction": "Cung cấp thông tin về sản phẩm theo mã SKU.",
+    "input": "Mã sản phẩm: P011",
+    "output": "Sản phẩm: Sản phẩm 11. Mô tả: Mô tả sản phẩm 11 với tính năng độc đáo.. Giá: 502,306 VND. Số lượng tồn kho: 252."
+  },
+  {
+    "instruction": "Kiểm tra tình trạng tồn kho của sản phẩm.",
+    "input": "Mã sản phẩm: P011",
+    "output": "Sản phẩm: Sản phẩm 11 còn 252 sản phẩm trong kho."
+  },
+  {
+    "instruction": "Viết mô tả marketing cho sản phẩm.",
+    "input": "Mã sản phẩm: P011",
+    "output": "Khám phá Sản phẩm 11 với mô tả sản phẩm 11 với tính năng độc đáo. Chỉ với 502,306 VND, đây là lựa chọn hoàn hảo cho bạn!"
+  },
+  {
+    "instruction": "Cung cấp thông tin về sản phẩm theo mã SKU.",
+    "input": "Mã sản phẩm: P012",
+    "output": "Sản phẩm: Sản phẩm 12. Mô tả: Mô tả sản phẩm 12 với tính năng độc đáo.. Giá: 374,729 VND. Số lượng tồn kho: 116."
+  },
+  {
+    "instruction": "Kiểm tra tình trạng tồn kho của sản phẩm.",
+    "input": "Mã sản phẩm: P012",
+    "output": "Sản phẩm: Sản phẩm 12 còn 116 sản phẩm trong kho."
+  },
+  {
+    "instruction": "Viết mô tả marketing cho sản phẩm.",
+    "input": "Mã sản phẩm: P012",
+    "output": "Khám phá Sản phẩm 12 với mô tả sản phẩm 12 với tính năng độc đáo. Chỉ với 374,729 VND, đây là lựa chọn hoàn hảo cho bạn!"
+  },
+  {
+    "instruction": "Cung cấp thông tin về sản phẩm theo mã SKU.",
+    "input": "Mã sản phẩm: P013",
+    "output": "Sản phẩm: Sản phẩm 13. Mô tả: Mô tả sản phẩm 13 với tính năng độc đáo.. Giá: 277,398 VND. Số lượng tồn kho: 315."
+  },
+  {
+    "instruction": "Kiểm tra tình trạng tồn kho của sản phẩm.",
+    "input": "Mã sản phẩm: P013",
+    "output": "Sản phẩm: Sản phẩm 13 còn 315 sản phẩm trong kho."
+  },
+  {
+    "instruction": "Viết mô tả marketing cho sản phẩm.",
+    "input": "Mã sản phẩm: P013",
+    "output": "Khám phá Sản phẩm 13 với mô tả sản phẩm 13 với tính năng độc đáo. Chỉ với 277,398 VND, đây là lựa chọn hoàn hảo cho bạn!"
+  },
+  {
+    "instruction": "Cung cấp thông tin về sản phẩm theo mã SKU.",
+    "input": "Mã sản phẩm: P014",
+    "output": "Sản phẩm: Sản phẩm 14. Mô tả: Mô tả sản phẩm 14 với tính năng độc đáo.. Giá: 343,030 VND. Số lượng tồn kho: 237."
+  },
+  {
+    "instruction": "Kiểm tra tình trạng tồn kho của sản phẩm.",
+    "input": "Mã sản phẩm: P014",
+    "output": "Sản phẩm: Sản phẩm 14 còn 237 sản phẩm trong kho."
+  },
+  {
+    "instruction": "Viết mô tả marketing cho sản phẩm.",
+    "input": "Mã sản phẩm: P014",
+    "output": "Khám phá Sản phẩm 14 với mô tả sản phẩm 14 với tính năng độc đáo. Chỉ với 343,030 VND, đây là lựa chọn hoàn hảo cho bạn!"
+  },
+  {
+    "instruction": "Cung cấp thông tin về sản phẩm theo mã SKU.",
+    "input": "Mã sản phẩm: P015",
+    "output": "Sản phẩm: Sản phẩm 15. Mô tả: Mô tả sản phẩm 15 với tính năng độc đáo.. Giá: 346,590 VND. Số lượng tồn kho: 187."
+  },
+  {
+    "instruction": "Kiểm tra tình trạng tồn kho của sản phẩm.",
+    "input": "Mã sản phẩm: P015",
+    "output": "Sản phẩm: Sản phẩm 15 còn 187 sản phẩm trong kho."
+  },
+  {
+    "instruction": "Viết mô tả marketing cho sản phẩm.",
+    "input": "Mã sản phẩm: P015",
+    "output": "Khám phá Sản phẩm 15 với mô tả sản phẩm 15 với tính năng độc đáo. Chỉ với 346,590 VND, đây là lựa chọn hoàn hảo cho bạn!"
+  },
+  {
+    "instruction": "Cung cấp thông tin về sản phẩm theo mã SKU.",
+    "input": "Mã sản phẩm: P016",
+    "output": "Sản phẩm: Sản phẩm 16. Mô tả: Mô tả sản phẩm 16 với tính năng độc đáo.. Giá: 671,175 VND. Số lượng tồn kho: 67."
+  },
+  {
+    "instruction": "Kiểm tra tình trạng tồn kho của sản phẩm.",
+    "input": "Mã sản phẩm: P016",
+    "output": "Sản phẩm: Sản phẩm 16 còn 67 sản phẩm trong kho."
+  },
+  {
+    "instruction": "Viết mô tả marketing cho sản phẩm.",
+    "input": "Mã sản phẩm: P016",
+    "output": "Khám phá Sản phẩm 16 với mô tả sản phẩm 16 với tính năng độc đáo. Chỉ với 671,175 VND, đây là lựa chọn hoàn hảo cho bạn!"
+  },
+  {
+    "instruction": "Cung cấp thông tin về sản phẩm theo mã SKU.",
+    "input": "Mã sản phẩm: P017",
+    "output": "Sản phẩm: Sản phẩm 17. Mô tả: Mô tả sản phẩm 17 với tính năng độc đáo.. Giá: 641,415 VND. Số lượng tồn kho: 111."
+  },
+  {
+    "instruction": "Kiểm tra tình trạng tồn kho của sản phẩm.",
+    "input": "Mã sản phẩm: P017",
+    "output": "Sản phẩm: Sản phẩm 17 còn 111 sản phẩm trong kho."
+  },
+  {
+    "instruction": "Viết mô tả marketing cho sản phẩm.",
+    "input": "Mã sản phẩm: P017",
+    "output": "Khám phá Sản phẩm 17 với mô tả sản phẩm 17 với tính năng độc đáo. Chỉ với 641,415 VND, đây là lựa chọn hoàn hảo cho bạn!"
+  },
+  {
+    "instruction": "Cung cấp thông tin về sản phẩm theo mã SKU.",
+    "input": "Mã sản phẩm: P018",
+    "output": "Sản phẩm: Sản phẩm 18. Mô tả: Mô tả sản phẩm 18 với tính năng độc đáo.. Giá: 682,852 VND. Số lượng tồn kho: 61."
+  },
+  {
+    "instruction": "Kiểm tra tình trạng tồn kho của sản phẩm.",
+    "input": "Mã sản phẩm: P018",
+    "output": "Sản phẩm: Sản phẩm 18 còn 61 sản phẩm trong kho."
+  },
+  {
+    "instruction": "Viết mô tả marketing cho sản phẩm.",
+    "input": "Mã sản phẩm: P018",
+    "output": "Khám phá Sản phẩm 18 với mô tả sản phẩm 18 với tính năng độc đáo. Chỉ với 682,852 VND, đây là lựa chọn hoàn hảo cho bạn!"
+  },
+  {
+    "instruction": "Cung cấp thông tin về sản phẩm theo mã SKU.",
+    "input": "Mã sản phẩm: P019",
+    "output": "Sản phẩm: Sản phẩm 19. Mô tả: Mô tả sản phẩm 19 với tính năng độc đáo.. Giá: 681,769 VND. Số lượng tồn kho: 58."
+  },
+  {
+    "instruction": "Kiểm tra tình trạng tồn kho của sản phẩm.",
+    "input": "Mã sản phẩm: P019",
+    "output": "Sản phẩm: Sản phẩm 19 còn 58 sản phẩm trong kho."
+  },
+  {
+    "instruction": "Viết mô tả marketing cho sản phẩm.",
+    "input": "Mã sản phẩm: P019",
+    "output": "Khám phá Sản phẩm 19 với mô tả sản phẩm 19 với tính năng độc đáo. Chỉ với 681,769 VND, đây là lựa chọn hoàn hảo cho bạn!"
+  },
+  {
+    "instruction": "Cung cấp thông tin về sản phẩm theo mã SKU.",
+    "input": "Mã sản phẩm: P020",
+    "output": "Sản phẩm: Sản phẩm 20. Mô tả: Mô tả sản phẩm 20 với tính năng độc đáo.. Giá: 327,172 VND. Số lượng tồn kho: 211."
+  },
+  {
+    "instruction": "Kiểm tra tình trạng tồn kho của sản phẩm.",
+    "input": "Mã sản phẩm: P020",
+    "output": "Sản phẩm: Sản phẩm 20 còn 211 sản phẩm trong kho."
+  },
+  {
+    "instruction": "Viết mô tả marketing cho sản phẩm.",
+    "input": "Mã sản phẩm: P020",
+    "output": "Khám phá Sản phẩm 20 với mô tả sản phẩm 20 với tính năng độc đáo. Chỉ với 327,172 VND, đây là lựa chọn hoàn hảo cho bạn!"
+  },
+  {
+    "instruction": "Cung cấp thông tin về sản phẩm theo mã SKU.",
+    "input": "Mã sản phẩm: P021",
+    "output": "Sản phẩm: Sản phẩm 21. Mô tả: Mô tả sản phẩm 21 với tính năng độc đáo.. Giá: 419,061 VND. Số lượng tồn kho: 87."
+  },
+  {
+    "instruction": "Kiểm tra tình trạng tồn kho của sản phẩm.",
+    "input": "Mã sản phẩm: P021",
+    "output": "Sản phẩm: Sản phẩm 21 còn 87 sản phẩm trong kho."
+  },
+  {
+    "instruction": "Viết mô tả marketing cho sản phẩm.",
+    "input": "Mã sản phẩm: P021",
+    "output": "Khám phá Sản phẩm 21 với mô tả sản phẩm 21 với tính năng độc đáo. Chỉ với 419,061 VND, đây là lựa chọn hoàn hảo cho bạn!"
+  },
+  {
+    "instruction": "Cung cấp thông tin về sản phẩm theo mã SKU.",
+    "input": "Mã sản phẩm: P022",
+    "output": "Sản phẩm: Sản phẩm 22. Mô tả: Mô tả sản phẩm 22 với tính năng độc đáo.. Giá: 292,019 VND. Số lượng tồn kho: 158."
+  },
+  {
+    "instruction": "Kiểm tra tình trạng tồn kho của sản phẩm.",
+    "input": "Mã sản phẩm: P022",
+    "output": "Sản phẩm: Sản phẩm 22 còn 158 sản phẩm trong kho."
+  },
+  {
+    "instruction": "Viết mô tả marketing cho sản phẩm.",
+    "input": "Mã sản phẩm: P022",
+    "output": "Khám phá Sản phẩm 22 với mô tả sản phẩm 22 với tính năng độc đáo. Chỉ với 292,019 VND, đây là lựa chọn hoàn hảo cho bạn!"
+  },
+  {
+    "instruction": "Cung cấp thông tin về sản phẩm theo mã SKU.",
+    "input": "Mã sản phẩm: P023",
+    "output": "Sản phẩm: Sản phẩm 23. Mô tả: Mô tả sản phẩm 23 với tính năng độc đáo.. Giá: 432,985 VND. Số lượng tồn kho: 82."
+  },
+  {
+    "instruction": "Kiểm tra tình trạng tồn kho của sản phẩm.",
+    "input": "Mã sản phẩm: P023",
+    "output": "Sản phẩm: Sản phẩm 23 còn 82 sản phẩm trong kho."
+  },
+  {
+    "instruction": "Viết mô tả marketing cho sản phẩm.",
+    "input": "Mã sản phẩm: P023",
+    "output": "Khám phá Sản phẩm 23 với mô tả sản phẩm 23 với tính năng độc đáo. Chỉ với 432,985 VND, đây là lựa chọn hoàn hảo cho bạn!"
+  },
+  {
+    "instruction": "Cung cấp thông tin về sản phẩm theo mã SKU.",
+    "input": "Mã sản phẩm: P024",
+    "output": "Sản phẩm: Sản phẩm 24. Mô tả: Mô tả sản phẩm 24 với tính năng độc đáo.. Giá: 317,502 VND. Số lượng tồn kho: 218."
+  },
+  {
+    "instruction": "Kiểm tra tình trạng tồn kho của sản phẩm.",
+    "input": "Mã sản phẩm: P024",
+    "output": "Sản phẩm: Sản phẩm 24 còn 218 sản phẩm trong kho."
+  },
+  {
+    "instruction": "Viết mô tả marketing cho sản phẩm.",
+    "input": "Mã sản phẩm: P024",
+    "output": "Khám phá Sản phẩm 24 với mô tả sản phẩm 24 với tính năng độc đáo. Chỉ với 317,502 VND, đây là lựa chọn hoàn hảo cho bạn!"
+  },
+  {
+    "instruction": "Cung cấp thông tin về sản phẩm theo mã SKU.",
+    "input": "Mã sản phẩm: P025",
+    "output": "Sản phẩm: Sản phẩm 25. Mô tả: Mô tả sản phẩm 25 với tính năng độc đáo.. Giá: 418,577 VND. Số lượng tồn kho: 224."
+  },
+  {
+    "instruction": "Kiểm tra tình trạng tồn kho của sản phẩm.",
+    "input": "Mã sản phẩm: P025",
+    "output": "Sản phẩm: Sản phẩm 25 còn 224 sản phẩm trong kho."
+  },
+  {
+    "instruction": "Viết mô tả marketing cho sản phẩm.",
+    "input": "Mã sản phẩm: P025",
+    "output": "Khám phá Sản phẩm 25 với mô tả sản phẩm 25 với tính năng độc đáo. Chỉ với 418,577 VND, đây là lựa chọn hoàn hảo cho bạn!"
+  },
+  {
+    "instruction": "Cung cấp thông tin về sản phẩm theo mã SKU.",
+    "input": "Mã sản phẩm: P026",
+    "output": "Sản phẩm: Sản phẩm 26. Mô tả: Mô tả sản phẩm 26 với tính năng độc đáo.. Giá: 379,782 VND. Số lượng tồn kho: 253."
+  },
+  {
+    "instruction": "Kiểm tra tình trạng tồn kho của sản phẩm.",
+    "input": "Mã sản phẩm: P026",
+    "output": "Sản phẩm: Sản phẩm 26 còn 253 sản phẩm trong kho."
+  },
+  {
+    "instruction": "Viết mô tả marketing cho sản phẩm.",
+    "input": "Mã sản phẩm: P026",
+    "output": "Khám phá Sản phẩm 26 với mô tả sản phẩm 26 với tính năng độc đáo. Chỉ với 379,782 VND, đây là lựa chọn hoàn hảo cho bạn!"
+  },
+  {
+    "instruction": "Cung cấp thông tin về sản phẩm theo mã SKU.",
+    "input": "Mã sản phẩm: P027",
+    "output": "Sản phẩm: Sản phẩm 27. Mô tả: Mô tả sản phẩm 27 với tính năng độc đáo.. Giá: 207,497 VND. Số lượng tồn kho: 261."
+  },
+  {
+    "instruction": "Kiểm tra tình trạng tồn kho của sản phẩm.",
+    "input": "Mã sản phẩm: P027",
+    "output": "Sản phẩm: Sản phẩm 27 còn 261 sản phẩm trong kho."
+  },
+  {
+    "instruction": "Viết mô tả marketing cho sản phẩm.",
+    "input": "Mã sản phẩm: P027",
+    "output": "Khám phá Sản phẩm 27 với mô tả sản phẩm 27 với tính năng độc đáo. Chỉ với 207,497 VND, đây là lựa chọn hoàn hảo cho bạn!"
+  },
+  {
+    "instruction": "Cung cấp thông tin về sản phẩm theo mã SKU.",
+    "input": "Mã sản phẩm: P028",
+    "output": "Sản phẩm: Sản phẩm 28. Mô tả: Mô tả sản phẩm 28 với tính năng độc đáo.. Giá: 631,924 VND. Số lượng tồn kho: 133."
+  },
+  {
+    "instruction": "Kiểm tra tình trạng tồn kho của sản phẩm.",
+    "input": "Mã sản phẩm: P028",
+    "output": "Sản phẩm: Sản phẩm 28 còn 133 sản phẩm trong kho."
+  },
+  {
+    "instruction": "Viết mô tả marketing cho sản phẩm.",
+    "input": "Mã sản phẩm: P028",
+    "output": "Khám phá Sản phẩm 28 với mô tả sản phẩm 28 với tính năng độc đáo. Chỉ với 631,924 VND, đây là lựa chọn hoàn hảo cho bạn!"
+  },
+  {
+    "instruction": "Cung cấp thông tin về sản phẩm theo mã SKU.",
+    "input": "Mã sản phẩm: P029",
+    "output": "Sản phẩm: Sản phẩm 29. Mô tả: Mô tả sản phẩm 29 với tính năng độc đáo.. Giá: 246,059 VND. Số lượng tồn kho: 167."
+  },
+  {
+    "instruction": "Kiểm tra tình trạng tồn kho của sản phẩm.",
+    "input": "Mã sản phẩm: P029",
+    "output": "Sản phẩm: Sản phẩm 29 còn 167 sản phẩm trong kho."
+  },
+  {
+    "instruction": "Viết mô tả marketing cho sản phẩm.",
+    "input": "Mã sản phẩm: P029",
+    "output": "Khám phá Sản phẩm 29 với mô tả sản phẩm 29 với tính năng độc đáo. Chỉ với 246,059 VND, đây là lựa chọn hoàn hảo cho bạn!"
+  },
+  {
+    "instruction": "Cung cấp thông tin về sản phẩm theo mã SKU.",
+    "input": "Mã sản phẩm: P030",
+    "output": "Sản phẩm: Sản phẩm 30. Mô tả: Mô tả sản phẩm 30 với tính năng độc đáo.. Giá: 324,200 VND. Số lượng tồn kho: 66."
+  },
+  {
+    "instruction": "Kiểm tra tình trạng tồn kho của sản phẩm.",
+    "input": "Mã sản phẩm: P030",
+    "output": "Sản phẩm: Sản phẩm 30 còn 66 sản phẩm trong kho."
+  },
+  {
+    "instruction": "Viết mô tả marketing cho sản phẩm.",
+    "input": "Mã sản phẩm: P030",
+    "output": "Khám phá Sản phẩm 30 với mô tả sản phẩm 30 với tính năng độc đáo. Chỉ với 324,200 VND, đây là lựa chọn hoàn hảo cho bạn!"
+  },
+  {
+    "instruction": "Cung cấp thông tin về sản phẩm theo mã SKU.",
+    "input": "Mã sản phẩm: P031",
+    "output": "Sản phẩm: Sản phẩm 31. Mô tả: Mô tả sản phẩm 31 với tính năng độc đáo.. Giá: 693,575 VND. Số lượng tồn kho: 281."
+  },
+  {
+    "instruction": "Kiểm tra tình trạng tồn kho của sản phẩm.",
+    "input": "Mã sản phẩm: P031",
+    "output": "Sản phẩm: Sản phẩm 31 còn 281 sản phẩm trong kho."
+  },
+  {
+    "instruction": "Viết mô tả marketing cho sản phẩm.",
+    "input": "Mã sản phẩm: P031",
+    "output": "Khám phá Sản phẩm 31 với mô tả sản phẩm 31 với tính năng độc đáo. Chỉ với 693,575 VND, đây là lựa chọn hoàn hảo cho bạn!"
+  },
+  {
+    "instruction": "Cung cấp thông tin về sản phẩm theo mã SKU.",
+    "input": "Mã sản phẩm: P032",
+    "output": "Sản phẩm: Sản phẩm 32. Mô tả: Mô tả sản phẩm 32 với tính năng độc đáo.. Giá: 668,589 VND. Số lượng tồn kho: 252."
+  },
+  {
+    "instruction": "Kiểm tra tình trạng tồn kho của sản phẩm.",
+    "input": "Mã sản phẩm: P032",
+    "output": "Sản phẩm: Sản phẩm 32 còn 252 sản phẩm trong kho."
+  },
+  {
+    "instruction": "Viết mô tả marketing cho sản phẩm.",
+    "input": "Mã sản phẩm: P032",
+    "output": "Khám phá Sản phẩm 32 với mô tả sản phẩm 32 với tính năng độc đáo. Chỉ với 668,589 VND, đây là lựa chọn hoàn hảo cho bạn!"
+  },
+  {
+    "instruction": "Cung cấp thông tin về sản phẩm theo mã SKU.",
+    "input": "Mã sản phẩm: P033",
+    "output": "Sản phẩm: Sản phẩm 33. Mô tả: Mô tả sản phẩm 33 với tính năng độc đáo.. Giá: 647,078 VND. Số lượng tồn kho: 268."
+  },
+  {
+    "instruction": "Kiểm tra tình trạng tồn kho của sản phẩm.",
+    "input": "Mã sản phẩm: P033",
+    "output": "Sản phẩm: Sản phẩm 33 còn 268 sản phẩm trong kho."
+  },
+  {
+    "instruction": "Viết mô tả marketing cho sản phẩm.",
+    "input": "Mã sản phẩm: P033",
+    "output": "Khám phá Sản phẩm 33 với mô tả sản phẩm 33 với tính năng độc đáo. Chỉ với 647,078 VND, đây là lựa chọn hoàn hảo cho bạn!"
+  },
+  {
+    "instruction": "Cung cấp thông tin về sản phẩm theo mã SKU.",
+    "input": "Mã sản phẩm: P034",
+    "output": "Sản phẩm: Sản phẩm 34. Mô tả: Mô tả sản phẩm 34 với tính năng độc đáo.. Giá: 621,497 VND. Số lượng tồn kho: 153."
+  },
+  {
+    "instruction": "Kiểm tra tình trạng tồn kho của sản phẩm.",
+    "input": "Mã sản phẩm: P034",
+    "output": "Sản phẩm: Sản phẩm 34 còn 153 sản phẩm trong kho."
+  },
+  {
+    "instruction": "Viết mô tả marketing cho sản phẩm.",
+    "input": "Mã sản phẩm: P034",
+    "output": "Khám phá Sản phẩm 34 với mô tả sản phẩm 34 với tính năng độc đáo. Chỉ với 621,497 VND, đây là lựa chọn hoàn hảo cho bạn!"
+  },
+  {
+    "instruction": "Cung cấp thông tin về sản phẩm theo mã SKU.",
+    "input": "Mã sản phẩm: P035",
+    "output": "Sản phẩm: Sản phẩm 35. Mô tả: Mô tả sản phẩm 35 với tính năng độc đáo.. Giá: 526,239 VND. Số lượng tồn kho: 44."
+  },
+  {
+    "instruction": "Kiểm tra tình trạng tồn kho của sản phẩm.",
+    "input": "Mã sản phẩm: P035",
+    "output": "Sản phẩm: Sản phẩm 35 còn 44 sản phẩm trong kho."
+  },
+  {
+    "instruction": "Viết mô tả marketing cho sản phẩm.",
+    "input": "Mã sản phẩm: P035",
+    "output": "Khám phá Sản phẩm 35 với mô tả sản phẩm 35 với tính năng độc đáo. Chỉ với 526,239 VND, đây là lựa chọn hoàn hảo cho bạn!"
+  },
+  {
+    "instruction": "Cung cấp thông tin về sản phẩm theo mã SKU.",
+    "input": "Mã sản phẩm: P036",
+    "output": "Sản phẩm: Sản phẩm 36. Mô tả: Mô tả sản phẩm 36 với tính năng độc đáo.. Giá: 433,372 VND. Số lượng tồn kho: 223."
+  },
+  {
+    "instruction": "Kiểm tra tình trạng tồn kho của sản phẩm.",
+    "input": "Mã sản phẩm: P036",
+    "output": "Sản phẩm: Sản phẩm 36 còn 223 sản phẩm trong kho."
+  },
+  {
+    "instruction": "Viết mô tả marketing cho sản phẩm.",
+    "input": "Mã sản phẩm: P036",
+    "output": "Khám phá Sản phẩm 36 với mô tả sản phẩm 36 với tính năng độc đáo. Chỉ với 433,372 VND, đây là lựa chọn hoàn hảo cho bạn!"
+  },
+  {
+    "instruction": "Cung cấp thông tin về sản phẩm theo mã SKU.",
+    "input": "Mã sản phẩm: P037",
+    "output": "Sản phẩm: Sản phẩm 37. Mô tả: Mô tả sản phẩm 37 với tính năng độc đáo.. Giá: 621,182 VND. Số lượng tồn kho: 115."
+  },
+  {
+    "instruction": "Kiểm tra tình trạng tồn kho của sản phẩm.",
+    "input": "Mã sản phẩm: P037",
+    "output": "Sản phẩm: Sản phẩm 37 còn 115 sản phẩm trong kho."
+  },
+  {
+    "instruction": "Viết mô tả marketing cho sản phẩm.",
+    "input": "Mã sản phẩm: P037",
+    "output": "Khám phá Sản phẩm 37 với mô tả sản phẩm 37 với tính năng độc đáo. Chỉ với 621,182 VND, đây là lựa chọn hoàn hảo cho bạn!"
+  },
+  {
+    "instruction": "Cung cấp thông tin về sản phẩm theo mã SKU.",
+    "input": "Mã sản phẩm: P038",
+    "output": "Sản phẩm: Sản phẩm 38. Mô tả: Mô tả sản phẩm 38 với tính năng độc đáo.. Giá: 480,615 VND. Số lượng tồn kho: 308."
+  },
+  {
+    "instruction": "Kiểm tra tình trạng tồn kho của sản phẩm.",
+    "input": "Mã sản phẩm: P038",
+    "output": "Sản phẩm: Sản phẩm 38 còn 308 sản phẩm trong kho."
+  },
+  {
+    "instruction": "Viết mô tả marketing cho sản phẩm.",
+    "input": "Mã sản phẩm: P038",
+    "output": "Khám phá Sản phẩm 38 với mô tả sản phẩm 38 với tính năng độc đáo. Chỉ với 480,615 VND, đây là lựa chọn hoàn hảo cho bạn!"
+  },
+  {
+    "instruction": "Cung cấp thông tin về sản phẩm theo mã SKU.",
+    "input": "Mã sản phẩm: P039",
+    "output": "Sản phẩm: Sản phẩm 39. Mô tả: Mô tả sản phẩm 39 với tính năng độc đáo.. Giá: 320,162 VND. Số lượng tồn kho: 249."
+  },
+  {
+    "instruction": "Kiểm tra tình trạng tồn kho của sản phẩm.",
+    "input": "Mã sản phẩm: P039",
+    "output": "Sản phẩm: Sản phẩm 39 còn 249 sản phẩm trong kho."
+  },
+  {
+    "instruction": "Viết mô tả marketing cho sản phẩm.",
+    "input": "Mã sản phẩm: P039",
+    "output": "Khám phá Sản phẩm 39 với mô tả sản phẩm 39 với tính năng độc đáo. Chỉ với 320,162 VND, đây là lựa chọn hoàn hảo cho bạn!"
+  },
+  {
+    "instruction": "Cung cấp thông tin về sản phẩm theo mã SKU.",
+    "input": "Mã sản phẩm: P040",
+    "output": "Sản phẩm: Sản phẩm 40. Mô tả: Mô tả sản phẩm 40 với tính năng độc đáo.. Giá: 607,169 VND. Số lượng tồn kho: 229."
+  },
+  {
+    "instruction": "Kiểm tra tình trạng tồn kho của sản phẩm.",
+    "input": "Mã sản phẩm: P040",
+    "output": "Sản phẩm: Sản phẩm 40 còn 229 sản phẩm trong kho."
+  },
+  {
+    "instruction": "Viết mô tả marketing cho sản phẩm.",
+    "input": "Mã sản phẩm: P040",
+    "output": "Khám phá Sản phẩm 40 với mô tả sản phẩm 40 với tính năng độc đáo. Chỉ với 607,169 VND, đây là lựa chọn hoàn hảo cho bạn!"
+  },
+  {
+    "instruction": "Cung cấp thông tin về sản phẩm theo mã SKU.",
+    "input": "Mã sản phẩm: P041",
+    "output": "Sản phẩm: Sản phẩm 41. Mô tả: Mô tả sản phẩm 41 với tính năng độc đáo.. Giá: 395,340 VND. Số lượng tồn kho: 151."
+  },
+  {
+    "instruction": "Kiểm tra tình trạng tồn kho của sản phẩm.",
+    "input": "Mã sản phẩm: P041",
+    "output": "Sản phẩm: Sản phẩm 41 còn 151 sản phẩm trong kho."
+  },
+  {
+    "instruction": "Viết mô tả marketing cho sản phẩm.",
+    "input": "Mã sản phẩm: P041",
+    "output": "Khám phá Sản phẩm 41 với mô tả sản phẩm 41 với tính năng độc đáo. Chỉ với 395,340 VND, đây là lựa chọn hoàn hảo cho bạn!"
+  },
+  {
+    "instruction": "Cung cấp thông tin về sản phẩm theo mã SKU.",
+    "input": "Mã sản phẩm: P042",
+    "output": "Sản phẩm: Sản phẩm 42. Mô tả: Mô tả sản phẩm 42 với tính năng độc đáo.. Giá: 562,997 VND. Số lượng tồn kho: 196."
+  },
+  {
+    "instruction": "Kiểm tra tình trạng tồn kho của sản phẩm.",
+    "input": "Mã sản phẩm: P042",
+    "output": "Sản phẩm: Sản phẩm 42 còn 196 sản phẩm trong kho."
+  },
+  {
+    "instruction": "Viết mô tả marketing cho sản phẩm.",
+    "input": "Mã sản phẩm: P042",
+    "output": "Khám phá Sản phẩm 42 với mô tả sản phẩm 42 với tính năng độc đáo. Chỉ với 562,997 VND, đây là lựa chọn hoàn hảo cho bạn!"
+  },
+  {
+    "instruction": "Cung cấp thông tin về sản phẩm theo mã SKU.",
+    "input": "Mã sản phẩm: P043",
+    "output": "Sản phẩm: Sản phẩm 43. Mô tả: Mô tả sản phẩm 43 với tính năng độc đáo.. Giá: 273,981 VND. Số lượng tồn kho: 197."
+  },
+  {
+    "instruction": "Kiểm tra tình trạng tồn kho của sản phẩm.",
+    "input": "Mã sản phẩm: P043",
+    "output": "Sản phẩm: Sản phẩm 43 còn 197 sản phẩm trong kho."
+  },
+  {
+    "instruction": "Viết mô tả marketing cho sản phẩm.",
+    "input": "Mã sản phẩm: P043",
+    "output": "Khám phá Sản phẩm 43 với mô tả sản phẩm 43 với tính năng độc đáo. Chỉ với 273,981 VND, đây là lựa chọn hoàn hảo cho bạn!"
+  },
+  {
+    "instruction": "Cung cấp thông tin về sản phẩm theo mã SKU.",
+    "input": "Mã sản phẩm: P044",
+    "output": "Sản phẩm: Sản phẩm 44. Mô tả: Mô tả sản phẩm 44 với tính năng độc đáo.. Giá: 337,689 VND. Số lượng tồn kho: 37."
+  },
+  {
+    "instruction": "Kiểm tra tình trạng tồn kho của sản phẩm.",
+    "input": "Mã sản phẩm: P044",
+    "output": "Sản phẩm: Sản phẩm 44 còn 37 sản phẩm trong kho."
+  },
+  {
+    "instruction": "Viết mô tả marketing cho sản phẩm.",
+    "input": "Mã sản phẩm: P044",
+    "output": "Khám phá Sản phẩm 44 với mô tả sản phẩm 44 với tính năng độc đáo. Chỉ với 337,689 VND, đây là lựa chọn hoàn hảo cho bạn!"
+  },
+  {
+    "instruction": "Cung cấp thông tin về sản phẩm theo mã SKU.",
+    "input": "Mã sản phẩm: P045",
+    "output": "Sản phẩm: Sản phẩm 45. Mô tả: Mô tả sản phẩm 45 với tính năng độc đáo.. Giá: 321,645 VND. Số lượng tồn kho: 46."
+  },
+  {
+    "instruction": "Kiểm tra tình trạng tồn kho của sản phẩm.",
+    "input": "Mã sản phẩm: P045",
+    "output": "Sản phẩm: Sản phẩm 45 còn 46 sản phẩm trong kho."
+  },
+  {
+    "instruction": "Viết mô tả marketing cho sản phẩm.",
+    "input": "Mã sản phẩm: P045",
+    "output": "Khám phá Sản phẩm 45 với mô tả sản phẩm 45 với tính năng độc đáo. Chỉ với 321,645 VND, đây là lựa chọn hoàn hảo cho bạn!"
+  },
+  {
+    "instruction": "Cung cấp thông tin về sản phẩm theo mã SKU.",
+    "input": "Mã sản phẩm: P046",
+    "output": "Sản phẩm: Sản phẩm 46. Mô tả: Mô tả sản phẩm 46 với tính năng độc đáo.. Giá: 621,800 VND. Số lượng tồn kho: 187."
+  },
+  {
+    "instruction": "Kiểm tra tình trạng tồn kho của sản phẩm.",
+    "input": "Mã sản phẩm: P046",
+    "output": "Sản phẩm: Sản phẩm 46 còn 187 sản phẩm trong kho."
+  },
+  {
+    "instruction": "Viết mô tả marketing cho sản phẩm.",
+    "input": "Mã sản phẩm: P046",
+    "output": "Khám phá Sản phẩm 46 với mô tả sản phẩm 46 với tính năng độc đáo. Chỉ với 621,800 VND, đây là lựa chọn hoàn hảo cho bạn!"
+  },
+  {
+    "instruction": "Cung cấp thông tin về sản phẩm theo mã SKU.",
+    "input": "Mã sản phẩm: P047",
+    "output": "Sản phẩm: Sản phẩm 47. Mô tả: Mô tả sản phẩm 47 với tính năng độc đáo.. Giá: 475,746 VND. Số lượng tồn kho: 177."
+  },
+  {
+    "instruction": "Kiểm tra tình trạng tồn kho của sản phẩm.",
+    "input": "Mã sản phẩm: P047",
+    "output": "Sản phẩm: Sản phẩm 47 còn 177 sản phẩm trong kho."
+  },
+  {
+    "instruction": "Viết mô tả marketing cho sản phẩm.",
+    "input": "Mã sản phẩm: P047",
+    "output": "Khám phá Sản phẩm 47 với mô tả sản phẩm 47 với tính năng độc đáo. Chỉ với 475,746 VND, đây là lựa chọn hoàn hảo cho bạn!"
+  },
+  {
+    "instruction": "Cung cấp thông tin về sản phẩm theo mã SKU.",
+    "input": "Mã sản phẩm: P048",
+    "output": "Sản phẩm: Sản phẩm 48. Mô tả: Mô tả sản phẩm 48 với tính năng độc đáo.. Giá: 598,389 VND. Số lượng tồn kho: 191."
+  },
+  {
+    "instruction": "Kiểm tra tình trạng tồn kho của sản phẩm.",
+    "input": "Mã sản phẩm: P048",
+    "output": "Sản phẩm: Sản phẩm 48 còn 191 sản phẩm trong kho."
+  },
+  {
+    "instruction": "Viết mô tả marketing cho sản phẩm.",
+    "input": "Mã sản phẩm: P048",
+    "output": "Khám phá Sản phẩm 48 với mô tả sản phẩm 48 với tính năng độc đáo. Chỉ với 598,389 VND, đây là lựa chọn hoàn hảo cho bạn!"
+  },
+  {
+    "instruction": "Cung cấp thông tin về sản phẩm theo mã SKU.",
+    "input": "Mã sản phẩm: P049",
+    "output": "Sản phẩm: Sản phẩm 49. Mô tả: Mô tả sản phẩm 49 với tính năng độc đáo.. Giá: 288,744 VND. Số lượng tồn kho: 128."
+  },
+  {
+    "instruction": "Kiểm tra tình trạng tồn kho của sản phẩm.",
+    "input": "Mã sản phẩm: P049",
+    "output": "Sản phẩm: Sản phẩm 49 còn 128 sản phẩm trong kho."
+  },
+  {
+    "instruction": "Viết mô tả marketing cho sản phẩm.",
+    "input": "Mã sản phẩm: P049",
+    "output": "Khám phá Sản phẩm 49 với mô tả sản phẩm 49 với tính năng độc đáo. Chỉ với 288,744 VND, đây là lựa chọn hoàn hảo cho bạn!"
+  },
+  {
+    "instruction": "Cung cấp thông tin về sản phẩm theo mã SKU.",
+    "input": "Mã sản phẩm: P050",
+    "output": "Sản phẩm: Sản phẩm 50. Mô tả: Mô tả sản phẩm 50 với tính năng độc đáo.. Giá: 476,492 VND. Số lượng tồn kho: 76."
+  },
+  {
+    "instruction": "Kiểm tra tình trạng tồn kho của sản phẩm.",
+    "input": "Mã sản phẩm: P050",
+    "output": "Sản phẩm: Sản phẩm 50 còn 76 sản phẩm trong kho."
+  },
+  {
+    "instruction": "Viết mô tả marketing cho sản phẩm.",
+    "input": "Mã sản phẩm: P050",
+    "output": "Khám phá Sản phẩm 50 với mô tả sản phẩm 50 với tính năng độc đáo. Chỉ với 476,492 VND, đây là lựa chọn hoàn hảo cho bạn!"
+  },
+  {
+    "instruction": "Cung cấp thông tin về sản phẩm theo mã SKU.",
+    "input": "Mã sản phẩm: P051",
+    "output": "Sản phẩm: Sản phẩm 51. Mô tả: Mô tả sản phẩm 51 với tính năng độc đáo.. Giá: 325,122 VND. Số lượng tồn kho: 56."
+  },
+  {
+    "instruction": "Kiểm tra tình trạng tồn kho của sản phẩm.",
+    "input": "Mã sản phẩm: P051",
+    "output": "Sản phẩm: Sản phẩm 51 còn 56 sản phẩm trong kho."
+  },
+  {
+    "instruction": "Viết mô tả marketing cho sản phẩm.",
+    "input": "Mã sản phẩm: P051",
+    "output": "Khám phá Sản phẩm 51 với mô tả sản phẩm 51 với tính năng độc đáo. Chỉ với 325,122 VND, đây là lựa chọn hoàn hảo cho bạn!"
+  },
+  {
+    "instruction": "Cung cấp thông tin về sản phẩm theo mã SKU.",
+    "input": "Mã sản phẩm: P052",
+    "output": "Sản phẩm: Sản phẩm 52. Mô tả: Mô tả sản phẩm 52 với tính năng độc đáo.. Giá: 208,357 VND. Số lượng tồn kho: 204."
+  },
+  {
+    "instruction": "Kiểm tra tình trạng tồn kho của sản phẩm.",
+    "input": "Mã sản phẩm: P052",
+    "output": "Sản phẩm: Sản phẩm 52 còn 204 sản phẩm trong kho."
+  },
+  {
+    "instruction": "Viết mô tả marketing cho sản phẩm.",
+    "input": "Mã sản phẩm: P052",
+    "output": "Khám phá Sản phẩm 52 với mô tả sản phẩm 52 với tính năng độc đáo. Chỉ với 208,357 VND, đây là lựa chọn hoàn hảo cho bạn!"
+  },
+  {
+    "instruction": "Cung cấp thông tin về sản phẩm theo mã SKU.",
+    "input": "Mã sản phẩm: P053",
+    "output": "Sản phẩm: Sản phẩm 53. Mô tả: Mô tả sản phẩm 53 với tính năng độc đáo.. Giá: 384,355 VND. Số lượng tồn kho: 206."
+  },
+  {
+    "instruction": "Kiểm tra tình trạng tồn kho của sản phẩm.",
+    "input": "Mã sản phẩm: P053",
+    "output": "Sản phẩm: Sản phẩm 53 còn 206 sản phẩm trong kho."
+  },
+  {
+    "instruction": "Viết mô tả marketing cho sản phẩm.",
+    "input": "Mã sản phẩm: P053",
+    "output": "Khám phá Sản phẩm 53 với mô tả sản phẩm 53 với tính năng độc đáo. Chỉ với 384,355 VND, đây là lựa chọn hoàn hảo cho bạn!"
+  },
+  {
+    "instruction": "Cung cấp thông tin về sản phẩm theo mã SKU.",
+    "input": "Mã sản phẩm: P054",
+    "output": "Sản phẩm: Sản phẩm 54. Mô tả: Mô tả sản phẩm 54 với tính năng độc đáo.. Giá: 511,392 VND. Số lượng tồn kho: 260."
+  },
+  {
+    "instruction": "Kiểm tra tình trạng tồn kho của sản phẩm.",
+    "input": "Mã sản phẩm: P054",
+    "output": "Sản phẩm: Sản phẩm 54 còn 260 sản phẩm trong kho."
+  },
+  {
+    "instruction": "Viết mô tả marketing cho sản phẩm.",
+    "input": "Mã sản phẩm: P054",
+    "output": "Khám phá Sản phẩm 54 với mô tả sản phẩm 54 với tính năng độc đáo. Chỉ với 511,392 VND, đây là lựa chọn hoàn hảo cho bạn!"
+  },
+  {
+    "instruction": "Cung cấp thông tin về sản phẩm theo mã SKU.",
+    "input": "Mã sản phẩm: P055",
+    "output": "Sản phẩm: Sản phẩm 55. Mô tả: Mô tả sản phẩm 55 với tính năng độc đáo.. Giá: 620,644 VND. Số lượng tồn kho: 211."
+  },
+  {
+    "instruction": "Kiểm tra tình trạng tồn kho của sản phẩm.",
+    "input": "Mã sản phẩm: P055",
+    "output": "Sản phẩm: Sản phẩm 55 còn 211 sản phẩm trong kho."
+  },
+  {
+    "instruction": "Viết mô tả marketing cho sản phẩm.",
+    "input": "Mã sản phẩm: P055",
+    "output": "Khám phá Sản phẩm 55 với mô tả sản phẩm 55 với tính năng độc đáo. Chỉ với 620,644 VND, đây là lựa chọn hoàn hảo cho bạn!"
+  },
+  {
+    "instruction": "Cung cấp thông tin về sản phẩm theo mã SKU.",
+    "input": "Mã sản phẩm: P056",
+    "output": "Sản phẩm: Sản phẩm 56. Mô tả: Mô tả sản phẩm 56 với tính năng độc đáo.. Giá: 216,987 VND. Số lượng tồn kho: 285."
+  },
+  {
+    "instruction": "Kiểm tra tình trạng tồn kho của sản phẩm.",
+    "input": "Mã sản phẩm: P056",
+    "output": "Sản phẩm: Sản phẩm 56 còn 285 sản phẩm trong kho."
+  },
+  {
+    "instruction": "Viết mô tả marketing cho sản phẩm.",
+    "input": "Mã sản phẩm: P056",
+    "output": "Khám phá Sản phẩm 56 với mô tả sản phẩm 56 với tính năng độc đáo. Chỉ với 216,987 VND, đây là lựa chọn hoàn hảo cho bạn!"
+  },
+  {
+    "instruction": "Cung cấp thông tin về sản phẩm theo mã SKU.",
+    "input": "Mã sản phẩm: P057",
+    "output": "Sản phẩm: Sản phẩm 57. Mô tả: Mô tả sản phẩm 57 với tính năng độc đáo.. Giá: 325,762 VND. Số lượng tồn kho: 213."
+  },
+  {
+    "instruction": "Kiểm tra tình trạng tồn kho của sản phẩm.",
+    "input": "Mã sản phẩm: P057",
+    "output": "Sản phẩm: Sản phẩm 57 còn 213 sản phẩm trong kho."
+  },
+  {
+    "instruction": "Viết mô tả marketing cho sản phẩm.",
+    "input": "Mã sản phẩm: P057",
+    "output": "Khám phá Sản phẩm 57 với mô tả sản phẩm 57 với tính năng độc đáo. Chỉ với 325,762 VND, đây là lựa chọn hoàn hảo cho bạn!"
+  },
+  {
+    "instruction": "Cung cấp thông tin về sản phẩm theo mã SKU.",
+    "input": "Mã sản phẩm: P058",
+    "output": "Sản phẩm: Sản phẩm 58. Mô tả: Mô tả sản phẩm 58 với tính năng độc đáo.. Giá: 326,354 VND. Số lượng tồn kho: 39."
+  },
+  {
+    "instruction": "Kiểm tra tình trạng tồn kho của sản phẩm.",
+    "input": "Mã sản phẩm: P058",
+    "output": "Sản phẩm: Sản phẩm 58 còn 39 sản phẩm trong kho."
+  },
+  {
+    "instruction": "Viết mô tả marketing cho sản phẩm.",
+    "input": "Mã sản phẩm: P058",
+    "output": "Khám phá Sản phẩm 58 với mô tả sản phẩm 58 với tính năng độc đáo. Chỉ với 326,354 VND, đây là lựa chọn hoàn hảo cho bạn!"
+  },
+  {
+    "instruction": "Cung cấp thông tin về sản phẩm theo mã SKU.",
+    "input": "Mã sản phẩm: P059",
+    "output": "Sản phẩm: Sản phẩm 59. Mô tả: Mô tả sản phẩm 59 với tính năng độc đáo.. Giá: 294,189 VND. Số lượng tồn kho: 317."
+  },
+  {
+    "instruction": "Kiểm tra tình trạng tồn kho của sản phẩm.",
+    "input": "Mã sản phẩm: P059",
+    "output": "Sản phẩm: Sản phẩm 59 còn 317 sản phẩm trong kho."
+  },
+  {
+    "instruction": "Viết mô tả marketing cho sản phẩm.",
+    "input": "Mã sản phẩm: P059",
+    "output": "Khám phá Sản phẩm 59 với mô tả sản phẩm 59 với tính năng độc đáo. Chỉ với 294,189 VND, đây là lựa chọn hoàn hảo cho bạn!"
+  },
+  {
+    "instruction": "Cung cấp thông tin về sản phẩm theo mã SKU.",
+    "input": "Mã sản phẩm: P060",
+    "output": "Sản phẩm: Sản phẩm 60. Mô tả: Mô tả sản phẩm 60 với tính năng độc đáo.. Giá: 379,002 VND. Số lượng tồn kho: 118."
+  },
+  {
+    "instruction": "Kiểm tra tình trạng tồn kho của sản phẩm.",
+    "input": "Mã sản phẩm: P060",
+    "output": "Sản phẩm: Sản phẩm 60 còn 118 sản phẩm trong kho."
+  },
+  {
+    "instruction": "Viết mô tả marketing cho sản phẩm.",
+    "input": "Mã sản phẩm: P060",
+    "output": "Khám phá Sản phẩm 60 với mô tả sản phẩm 60 với tính năng độc đáo. Chỉ với 379,002 VND, đây là lựa chọn hoàn hảo cho bạn!"
+  },
+  {
+    "instruction": "Cung cấp thông tin về sản phẩm theo mã SKU.",
+    "input": "Mã sản phẩm: P061",
+    "output": "Sản phẩm: Sản phẩm 61. Mô tả: Mô tả sản phẩm 61 với tính năng độc đáo.. Giá: 694,305 VND. Số lượng tồn kho: 194."
+  },
+  {
+    "instruction": "Kiểm tra tình trạng tồn kho của sản phẩm.",
+    "input": "Mã sản phẩm: P061",
+    "output": "Sản phẩm: Sản phẩm 61 còn 194 sản phẩm trong kho."
+  },
+  {
+    "instruction": "Viết mô tả marketing cho sản phẩm.",
+    "input": "Mã sản phẩm: P061",
+    "output": "Khám phá Sản phẩm 61 với mô tả sản phẩm 61 với tính năng độc đáo. Chỉ với 694,305 VND, đây là lựa chọn hoàn hảo cho bạn!"
+  },
+  {
+    "instruction": "Cung cấp thông tin về sản phẩm theo mã SKU.",
+    "input": "Mã sản phẩm: P062",
+    "output": "Sản phẩm: Sản phẩm 62. Mô tả: Mô tả sản phẩm 62 với tính năng độc đáo.. Giá: 442,070 VND. Số lượng tồn kho: 82."
+  },
+  {
+    "instruction": "Kiểm tra tình trạng tồn kho của sản phẩm.",
+    "input": "Mã sản phẩm: P062",
+    "output": "Sản phẩm: Sản phẩm 62 còn 82 sản phẩm trong kho."
+  },
+  {
+    "instruction": "Viết mô tả marketing cho sản phẩm.",
+    "input": "Mã sản phẩm: P062",
+    "output": "Khám phá Sản phẩm 62 với mô tả sản phẩm 62 với tính năng độc đáo. Chỉ với 442,070 VND, đây là lựa chọn hoàn hảo cho bạn!"
+  },
+  {
+    "instruction": "Cung cấp thông tin về sản phẩm theo mã SKU.",
+    "input": "Mã sản phẩm: P063",
+    "output": "Sản phẩm: Sản phẩm 63. Mô tả: Mô tả sản phẩm 63 với tính năng độc đáo.. Giá: 389,822 VND. Số lượng tồn kho: 42."
+  },
+  {
+    "instruction": "Kiểm tra tình trạng tồn kho của sản phẩm.",
+    "input": "Mã sản phẩm: P063",
+    "output": "Sản phẩm: Sản phẩm 63 còn 42 sản phẩm trong kho."
+  },
+  {
+    "instruction": "Viết mô tả marketing cho sản phẩm.",
+    "input": "Mã sản phẩm: P063",
+    "output": "Khám phá Sản phẩm 63 với mô tả sản phẩm 63 với tính năng độc đáo. Chỉ với 389,822 VND, đây là lựa chọn hoàn hảo cho bạn!"
+  },
+  {
+    "instruction": "Cung cấp thông tin về sản phẩm theo mã SKU.",
+    "input": "Mã sản phẩm: P064",
+    "output": "Sản phẩm: Sản phẩm 64. Mô tả: Mô tả sản phẩm 64 với tính năng độc đáo.. Giá: 349,759 VND. Số lượng tồn kho: 293."
+  },
+  {
+    "instruction": "Kiểm tra tình trạng tồn kho của sản phẩm.",
+    "input": "Mã sản phẩm: P064",
+    "output": "Sản phẩm: Sản phẩm 64 còn 293 sản phẩm trong kho."
+  },
+  {
+    "instruction": "Viết mô tả marketing cho sản phẩm.",
+    "input": "Mã sản phẩm: P064",
+    "output": "Khám phá Sản phẩm 64 với mô tả sản phẩm 64 với tính năng độc đáo. Chỉ với 349,759 VND, đây là lựa chọn hoàn hảo cho bạn!"
+  },
+  {
+    "instruction": "Cung cấp thông tin về sản phẩm theo mã SKU.",
+    "input": "Mã sản phẩm: P065",
+    "output": "Sản phẩm: Sản phẩm 65. Mô tả: Mô tả sản phẩm 65 với tính năng độc đáo.. Giá: 455,117 VND. Số lượng tồn kho: 81."
+  },
+  {
+    "instruction": "Kiểm tra tình trạng tồn kho của sản phẩm.",
+    "input": "Mã sản phẩm: P065",
+    "output": "Sản phẩm: Sản phẩm 65 còn 81 sản phẩm trong kho."
+  },
+  {
+    "instruction": "Viết mô tả marketing cho sản phẩm.",
+    "input": "Mã sản phẩm: P065",
+    "output": "Khám phá Sản phẩm 65 với mô tả sản phẩm 65 với tính năng độc đáo. Chỉ với 455,117 VND, đây là lựa chọn hoàn hảo cho bạn!"
+  },
+  {
+    "instruction": "Cung cấp thông tin về sản phẩm theo mã SKU.",
+    "input": "Mã sản phẩm: P066",
+    "output": "Sản phẩm: Sản phẩm 66. Mô tả: Mô tả sản phẩm 66 với tính năng độc đáo.. Giá: 396,471 VND. Số lượng tồn kho: 46."
+  },
+  {
+    "instruction": "Kiểm tra tình trạng tồn kho của sản phẩm.",
+    "input": "Mã sản phẩm: P066",
+    "output": "Sản phẩm: Sản phẩm 66 còn 46 sản phẩm trong kho."
+  },
+  {
+    "instruction": "Viết mô tả marketing cho sản phẩm.",
+    "input": "Mã sản phẩm: P066",
+    "output": "Khám phá Sản phẩm 66 với mô tả sản phẩm 66 với tính năng độc đáo. Chỉ với 396,471 VND, đây là lựa chọn hoàn hảo cho bạn!"
+  },
+  {
+    "instruction": "Cung cấp thông tin về sản phẩm theo mã SKU.",
+    "input": "Mã sản phẩm: P067",
+    "output": "Sản phẩm: Sản phẩm 67. Mô tả: Mô tả sản phẩm 67 với tính năng độc đáo.. Giá: 504,493 VND. Số lượng tồn kho: 69."
+  },
+  {
+    "instruction": "Kiểm tra tình trạng tồn kho của sản phẩm.",
+    "input": "Mã sản phẩm: P067",
+    "output": "Sản phẩm: Sản phẩm 67 còn 69 sản phẩm trong kho."
+  },
+  {
+    "instruction": "Viết mô tả marketing cho sản phẩm.",
+    "input": "Mã sản phẩm: P067",
+    "output": "Khám phá Sản phẩm 67 với mô tả sản phẩm 67 với tính năng độc đáo. Chỉ với 504,493 VND, đây là lựa chọn hoàn hảo cho bạn!"
+  },
+  {
+    "instruction": "Cung cấp thông tin về sản phẩm theo mã SKU.",
+    "input": "Mã sản phẩm: P068",
+    "output": "Sản phẩm: Sản phẩm 68. Mô tả: Mô tả sản phẩm 68 với tính năng độc đáo.. Giá: 654,402 VND. Số lượng tồn kho: 294."
+  },
+  {
+    "instruction": "Kiểm tra tình trạng tồn kho của sản phẩm.",
+    "input": "Mã sản phẩm: P068",
+    "output": "Sản phẩm: Sản phẩm 68 còn 294 sản phẩm trong kho."
+  },
+  {
+    "instruction": "Viết mô tả marketing cho sản phẩm.",
+    "input": "Mã sản phẩm: P068",
+    "output": "Khám phá Sản phẩm 68 với mô tả sản phẩm 68 với tính năng độc đáo. Chỉ với 654,402 VND, đây là lựa chọn hoàn hảo cho bạn!"
+  },
+  {
+    "instruction": "Cung cấp thông tin về sản phẩm theo mã SKU.",
+    "input": "Mã sản phẩm: P069",
+    "output": "Sản phẩm: Sản phẩm 69. Mô tả: Mô tả sản phẩm 69 với tính năng độc đáo.. Giá: 451,452 VND. Số lượng tồn kho: 79."
+  },
+  {
+    "instruction": "Kiểm tra tình trạng tồn kho của sản phẩm.",
+    "input": "Mã sản phẩm: P069",
+    "output": "Sản phẩm: Sản phẩm 69 còn 79 sản phẩm trong kho."
+  },
+  {
+    "instruction": "Viết mô tả marketing cho sản phẩm.",
+    "input": "Mã sản phẩm: P069",
+    "output": "Khám phá Sản phẩm 69 với mô tả sản phẩm 69 với tính năng độc đáo. Chỉ với 451,452 VND, đây là lựa chọn hoàn hảo cho bạn!"
+  },
+  {
+    "instruction": "Cung cấp thông tin về sản phẩm theo mã SKU.",
+    "input": "Mã sản phẩm: P070",
+    "output": "Sản phẩm: Sản phẩm 70. Mô tả: Mô tả sản phẩm 70 với tính năng độc đáo.. Giá: 475,273 VND. Số lượng tồn kho: 165."
+  },
+  {
+    "instruction": "Kiểm tra tình trạng tồn kho của sản phẩm.",
+    "input": "Mã sản phẩm: P070",
+    "output": "Sản phẩm: Sản phẩm 70 còn 165 sản phẩm trong kho."
+  },
+  {
+    "instruction": "Viết mô tả marketing cho sản phẩm.",
+    "input": "Mã sản phẩm: P070",
+    "output": "Khám phá Sản phẩm 70 với mô tả sản phẩm 70 với tính năng độc đáo. Chỉ với 475,273 VND, đây là lựa chọn hoàn hảo cho bạn!"
+  },
+  {
+    "instruction": "Cung cấp thông tin về sản phẩm theo mã SKU.",
+    "input": "Mã sản phẩm: P071",
+    "output": "Sản phẩm: Sản phẩm 71. Mô tả: Mô tả sản phẩm 71 với tính năng độc đáo.. Giá: 435,586 VND. Số lượng tồn kho: 270."
+  },
+  {
+    "instruction": "Kiểm tra tình trạng tồn kho của sản phẩm.",
+    "input": "Mã sản phẩm: P071",
+    "output": "Sản phẩm: Sản phẩm 71 còn 270 sản phẩm trong kho."
+  },
+  {
+    "instruction": "Viết mô tả marketing cho sản phẩm.",
+    "input": "Mã sản phẩm: P071",
+    "output": "Khám phá Sản phẩm 71 với mô tả sản phẩm 71 với tính năng độc đáo. Chỉ với 435,586 VND, đây là lựa chọn hoàn hảo cho bạn!"
+  },
+  {
+    "instruction": "Cung cấp thông tin về sản phẩm theo mã SKU.",
+    "input": "Mã sản phẩm: P072",
+    "output": "Sản phẩm: Sản phẩm 72. Mô tả: Mô tả sản phẩm 72 với tính năng độc đáo.. Giá: 685,833 VND. Số lượng tồn kho: 144."
+  },
+  {
+    "instruction": "Kiểm tra tình trạng tồn kho của sản phẩm.",
+    "input": "Mã sản phẩm: P072",
+    "output": "Sản phẩm: Sản phẩm 72 còn 144 sản phẩm trong kho."
+  },
+  {
+    "instruction": "Viết mô tả marketing cho sản phẩm.",
+    "input": "Mã sản phẩm: P072",
+    "output": "Khám phá Sản phẩm 72 với mô tả sản phẩm 72 với tính năng độc đáo. Chỉ với 685,833 VND, đây là lựa chọn hoàn hảo cho bạn!"
+  },
+  {
+    "instruction": "Cung cấp thông tin về sản phẩm theo mã SKU.",
+    "input": "Mã sản phẩm: P073",
+    "output": "Sản phẩm: Sản phẩm 73. Mô tả: Mô tả sản phẩm 73 với tính năng độc đáo.. Giá: 346,017 VND. Số lượng tồn kho: 292."
+  },
+  {
+    "instruction": "Kiểm tra tình trạng tồn kho của sản phẩm.",
+    "input": "Mã sản phẩm: P073",
+    "output": "Sản phẩm: Sản phẩm 73 còn 292 sản phẩm trong kho."
+  },
+  {
+    "instruction": "Viết mô tả marketing cho sản phẩm.",
+    "input": "Mã sản phẩm: P073",
+    "output": "Khám phá Sản phẩm 73 với mô tả sản phẩm 73 với tính năng độc đáo. Chỉ với 346,017 VND, đây là lựa chọn hoàn hảo cho bạn!"
+  },
+  {
+    "instruction": "Cung cấp thông tin về sản phẩm theo mã SKU.",
+    "input": "Mã sản phẩm: P074",
+    "output": "Sản phẩm: Sản phẩm 74. Mô tả: Mô tả sản phẩm 74 với tính năng độc đáo.. Giá: 417,029 VND. Số lượng tồn kho: 267."
+  },
+  {
+    "instruction": "Kiểm tra tình trạng tồn kho của sản phẩm.",
+    "input": "Mã sản phẩm: P074",
+    "output": "Sản phẩm: Sản phẩm 74 còn 267 sản phẩm trong kho."
+  },
+  {
+    "instruction": "Viết mô tả marketing cho sản phẩm.",
+    "input": "Mã sản phẩm: P074",
+    "output": "Khám phá Sản phẩm 74 với mô tả sản phẩm 74 với tính năng độc đáo. Chỉ với 417,029 VND, đây là lựa chọn hoàn hảo cho bạn!"
+  },
+  {
+    "instruction": "Cung cấp thông tin về sản phẩm theo mã SKU.",
+    "input": "Mã sản phẩm: P075",
+    "output": "Sản phẩm: Sản phẩm 75. Mô tả: Mô tả sản phẩm 75 với tính năng độc đáo.. Giá: 239,099 VND. Số lượng tồn kho: 89."
+  },
+  {
+    "instruction": "Kiểm tra tình trạng tồn kho của sản phẩm.",
+    "input": "Mã sản phẩm: P075",
+    "output": "Sản phẩm: Sản phẩm 75 còn 89 sản phẩm trong kho."
+  },
+  {
+    "instruction": "Viết mô tả marketing cho sản phẩm.",
+    "input": "Mã sản phẩm: P075",
+    "output": "Khám phá Sản phẩm 75 với mô tả sản phẩm 75 với tính năng độc đáo. Chỉ với 239,099 VND, đây là lựa chọn hoàn hảo cho bạn!"
+  },
+  {
+    "instruction": "Cung cấp thông tin về sản phẩm theo mã SKU.",
+    "input": "Mã sản phẩm: P076",
+    "output": "Sản phẩm: Sản phẩm 76. Mô tả: Mô tả sản phẩm 76 với tính năng độc đáo.. Giá: 623,461 VND. Số lượng tồn kho: 229."
+  },
+  {
+    "instruction": "Kiểm tra tình trạng tồn kho của sản phẩm.",
+    "input": "Mã sản phẩm: P076",
+    "output": "Sản phẩm: Sản phẩm 76 còn 229 sản phẩm trong kho."
+  },
+  {
+    "instruction": "Viết mô tả marketing cho sản phẩm.",
+    "input": "Mã sản phẩm: P076",
+    "output": "Khám phá Sản phẩm 76 với mô tả sản phẩm 76 với tính năng độc đáo. Chỉ với 623,461 VND, đây là lựa chọn hoàn hảo cho bạn!"
+  },
+  {
+    "instruction": "Cung cấp thông tin về sản phẩm theo mã SKU.",
+    "input": "Mã sản phẩm: P077",
+    "output": "Sản phẩm: Sản phẩm 77. Mô tả: Mô tả sản phẩm 77 với tính năng độc đáo.. Giá: 326,917 VND. Số lượng tồn kho: 121."
+  },
+  {
+    "instruction": "Kiểm tra tình trạng tồn kho của sản phẩm.",
+    "input": "Mã sản phẩm: P077",
+    "output": "Sản phẩm: Sản phẩm 77 còn 121 sản phẩm trong kho."
+  },
+  {
+    "instruction": "Viết mô tả marketing cho sản phẩm.",
+    "input": "Mã sản phẩm: P077",
+    "output": "Khám phá Sản phẩm 77 với mô tả sản phẩm 77 với tính năng độc đáo. Chỉ với 326,917 VND, đây là lựa chọn hoàn hảo cho bạn!"
+  },
+  {
+    "instruction": "Cung cấp thông tin về sản phẩm theo mã SKU.",
+    "input": "Mã sản phẩm: P078",
+    "output": "Sản phẩm: Sản phẩm 78. Mô tả: Mô tả sản phẩm 78 với tính năng độc đáo.. Giá: 220,257 VND. Số lượng tồn kho: 32."
+  },
+  {
+    "instruction": "Kiểm tra tình trạng tồn kho của sản phẩm.",
+    "input": "Mã sản phẩm: P078",
+    "output": "Sản phẩm: Sản phẩm 78 còn 32 sản phẩm trong kho."
+  },
+  {
+    "instruction": "Viết mô tả marketing cho sản phẩm.",
+    "input": "Mã sản phẩm: P078",
+    "output": "Khám phá Sản phẩm 78 với mô tả sản phẩm 78 với tính năng độc đáo. Chỉ với 220,257 VND, đây là lựa chọn hoàn hảo cho bạn!"
+  },
+  {
+    "instruction": "Cung cấp thông tin về sản phẩm theo mã SKU.",
+    "input": "Mã sản phẩm: P079",
+    "output": "Sản phẩm: Sản phẩm 79. Mô tả: Mô tả sản phẩm 79 với tính năng độc đáo.. Giá: 595,012 VND. Số lượng tồn kho: 300."
+  },
+  {
+    "instruction": "Kiểm tra tình trạng tồn kho của sản phẩm.",
+    "input": "Mã sản phẩm: P079",
+    "output": "Sản phẩm: Sản phẩm 79 còn 300 sản phẩm trong kho."
+  },
+  {
+    "instruction": "Viết mô tả marketing cho sản phẩm.",
+    "input": "Mã sản phẩm: P079",
+    "output": "Khám phá Sản phẩm 79 với mô tả sản phẩm 79 với tính năng độc đáo. Chỉ với 595,012 VND, đây là lựa chọn hoàn hảo cho bạn!"
+  },
+  {
+    "instruction": "Cung cấp thông tin về sản phẩm theo mã SKU.",
+    "input": "Mã sản phẩm: P080",
+    "output": "Sản phẩm: Sản phẩm 80. Mô tả: Mô tả sản phẩm 80 với tính năng độc đáo.. Giá: 514,819 VND. Số lượng tồn kho: 142."
+  },
+  {
+    "instruction": "Kiểm tra tình trạng tồn kho của sản phẩm.",
+    "input": "Mã sản phẩm: P080",
+    "output": "Sản phẩm: Sản phẩm 80 còn 142 sản phẩm trong kho."
+  },
+  {
+    "instruction": "Viết mô tả marketing cho sản phẩm.",
+    "input": "Mã sản phẩm: P080",
+    "output": "Khám phá Sản phẩm 80 với mô tả sản phẩm 80 với tính năng độc đáo. Chỉ với 514,819 VND, đây là lựa chọn hoàn hảo cho bạn!"
+  },
+  {
+    "instruction": "Cung cấp thông tin về sản phẩm theo mã SKU.",
+    "input": "Mã sản phẩm: P081",
+    "output": "Sản phẩm: Sản phẩm 81. Mô tả: Mô tả sản phẩm 81 với tính năng độc đáo.. Giá: 514,580 VND. Số lượng tồn kho: 209."
+  },
+  {
+    "instruction": "Kiểm tra tình trạng tồn kho của sản phẩm.",
+    "input": "Mã sản phẩm: P081",
+    "output": "Sản phẩm: Sản phẩm 81 còn 209 sản phẩm trong kho."
+  },
+  {
+    "instruction": "Viết mô tả marketing cho sản phẩm.",
+    "input": "Mã sản phẩm: P081",
+    "output": "Khám phá Sản phẩm 81 với mô tả sản phẩm 81 với tính năng độc đáo. Chỉ với 514,580 VND, đây là lựa chọn hoàn hảo cho bạn!"
+  },
+  {
+    "instruction": "Cung cấp thông tin về sản phẩm theo mã SKU.",
+    "input": "Mã sản phẩm: P082",
+    "output": "Sản phẩm: Sản phẩm 82. Mô tả: Mô tả sản phẩm 82 với tính năng độc đáo.. Giá: 315,209 VND. Số lượng tồn kho: 203."
+  },
+  {
+    "instruction": "Kiểm tra tình trạng tồn kho của sản phẩm.",
+    "input": "Mã sản phẩm: P082",
+    "output": "Sản phẩm: Sản phẩm 82 còn 203 sản phẩm trong kho."
+  },
+  {
+    "instruction": "Viết mô tả marketing cho sản phẩm.",
+    "input": "Mã sản phẩm: P082",
+    "output": "Khám phá Sản phẩm 82 với mô tả sản phẩm 82 với tính năng độc đáo. Chỉ với 315,209 VND, đây là lựa chọn hoàn hảo cho bạn!"
+  },
+  {
+    "instruction": "Cung cấp thông tin về sản phẩm theo mã SKU.",
+    "input": "Mã sản phẩm: P083",
+    "output": "Sản phẩm: Sản phẩm 83. Mô tả: Mô tả sản phẩm 83 với tính năng độc đáo.. Giá: 594,262 VND. Số lượng tồn kho: 182."
+  },
+  {
+    "instruction": "Kiểm tra tình trạng tồn kho của sản phẩm.",
+    "input": "Mã sản phẩm: P083",
+    "output": "Sản phẩm: Sản phẩm 83 còn 182 sản phẩm trong kho."
+  },
+  {
+    "instruction": "Viết mô tả marketing cho sản phẩm.",
+    "input": "Mã sản phẩm: P083",
+    "output": "Khám phá Sản phẩm 83 với mô tả sản phẩm 83 với tính năng độc đáo. Chỉ với 594,262 VND, đây là lựa chọn hoàn hảo cho bạn!"
+  },
+  {
+    "instruction": "Cung cấp thông tin về sản phẩm theo mã SKU.",
+    "input": "Mã sản phẩm: P084",
+    "output": "Sản phẩm: Sản phẩm 84. Mô tả: Mô tả sản phẩm 84 với tính năng độc đáo.. Giá: 337,931 VND. Số lượng tồn kho: 284."
+  },
+  {
+    "instruction": "Kiểm tra tình trạng tồn kho của sản phẩm.",
+    "input": "Mã sản phẩm: P084",
+    "output": "Sản phẩm: Sản phẩm 84 còn 284 sản phẩm trong kho."
+  },
+  {
+    "instruction": "Viết mô tả marketing cho sản phẩm.",
+    "input": "Mã sản phẩm: P084",
+    "output": "Khám phá Sản phẩm 84 với mô tả sản phẩm 84 với tính năng độc đáo. Chỉ với 337,931 VND, đây là lựa chọn hoàn hảo cho bạn!"
+  },
+  {
+    "instruction": "Cung cấp thông tin về sản phẩm theo mã SKU.",
+    "input": "Mã sản phẩm: P085",
+    "output": "Sản phẩm: Sản phẩm 85. Mô tả: Mô tả sản phẩm 85 với tính năng độc đáo.. Giá: 501,942 VND. Số lượng tồn kho: 109."
+  },
+  {
+    "instruction": "Kiểm tra tình trạng tồn kho của sản phẩm.",
+    "input": "Mã sản phẩm: P085",
+    "output": "Sản phẩm: Sản phẩm 85 còn 109 sản phẩm trong kho."
+  },
+  {
+    "instruction": "Viết mô tả marketing cho sản phẩm.",
+    "input": "Mã sản phẩm: P085",
+    "output": "Khám phá Sản phẩm 85 với mô tả sản phẩm 85 với tính năng độc đáo. Chỉ với 501,942 VND, đây là lựa chọn hoàn hảo cho bạn!"
+  },
+  {
+    "instruction": "Cung cấp thông tin về sản phẩm theo mã SKU.",
+    "input": "Mã sản phẩm: P086",
+    "output": "Sản phẩm: Sản phẩm 86. Mô tả: Mô tả sản phẩm 86 với tính năng độc đáo.. Giá: 260,798 VND. Số lượng tồn kho: 294."
+  },
+  {
+    "instruction": "Kiểm tra tình trạng tồn kho của sản phẩm.",
+    "input": "Mã sản phẩm: P086",
+    "output": "Sản phẩm: Sản phẩm 86 còn 294 sản phẩm trong kho."
+  },
+  {
+    "instruction": "Viết mô tả marketing cho sản phẩm.",
+    "input": "Mã sản phẩm: P086",
+    "output": "Khám phá Sản phẩm 86 với mô tả sản phẩm 86 với tính năng độc đáo. Chỉ với 260,798 VND, đây là lựa chọn hoàn hảo cho bạn!"
+  },
+  {
+    "instruction": "Cung cấp thông tin về sản phẩm theo mã SKU.",
+    "input": "Mã sản phẩm: P087",
+    "output": "Sản phẩm: Sản phẩm 87. Mô tả: Mô tả sản phẩm 87 với tính năng độc đáo.. Giá: 608,368 VND. Số lượng tồn kho: 74."
+  },
+  {
+    "instruction": "Kiểm tra tình trạng tồn kho của sản phẩm.",
+    "input": "Mã sản phẩm: P087",
+    "output": "Sản phẩm: Sản phẩm 87 còn 74 sản phẩm trong kho."
+  },
+  {
+    "instruction": "Viết mô tả marketing cho sản phẩm.",
+    "input": "Mã sản phẩm: P087",
+    "output": "Khám phá Sản phẩm 87 với mô tả sản phẩm 87 với tính năng độc đáo. Chỉ với 608,368 VND, đây là lựa chọn hoàn hảo cho bạn!"
+  },
+  {
+    "instruction": "Cung cấp thông tin về sản phẩm theo mã SKU.",
+    "input": "Mã sản phẩm: P088",
+    "output": "Sản phẩm: Sản phẩm 88. Mô tả: Mô tả sản phẩm 88 với tính năng độc đáo.. Giá: 585,561 VND. Số lượng tồn kho: 226."
+  },
+  {
+    "instruction": "Kiểm tra tình trạng tồn kho của sản phẩm.",
+    "input": "Mã sản phẩm: P088",
+    "output": "Sản phẩm: Sản phẩm 88 còn 226 sản phẩm trong kho."
+  },
+  {
+    "instruction": "Viết mô tả marketing cho sản phẩm.",
+    "input": "Mã sản phẩm: P088",
+    "output": "Khám phá Sản phẩm 88 với mô tả sản phẩm 88 với tính năng độc đáo. Chỉ với 585,561 VND, đây là lựa chọn hoàn hảo cho bạn!"
+  },
+  {
+    "instruction": "Cung cấp thông tin về sản phẩm theo mã SKU.",
+    "input": "Mã sản phẩm: P089",
+    "output": "Sản phẩm: Sản phẩm 89. Mô tả: Mô tả sản phẩm 89 với tính năng độc đáo.. Giá: 460,682 VND. Số lượng tồn kho: 91."
+  },
+  {
+    "instruction": "Kiểm tra tình trạng tồn kho của sản phẩm.",
+    "input": "Mã sản phẩm: P089",
+    "output": "Sản phẩm: Sản phẩm 89 còn 91 sản phẩm trong kho."
+  },
+  {
+    "instruction": "Viết mô tả marketing cho sản phẩm.",
+    "input": "Mã sản phẩm: P089",
+    "output": "Khám phá Sản phẩm 89 với mô tả sản phẩm 89 với tính năng độc đáo. Chỉ với 460,682 VND, đây là lựa chọn hoàn hảo cho bạn!"
+  },
+  {
+    "instruction": "Cung cấp thông tin về sản phẩm theo mã SKU.",
+    "input": "Mã sản phẩm: P090",
+    "output": "Sản phẩm: Sản phẩm 90. Mô tả: Mô tả sản phẩm 90 với tính năng độc đáo.. Giá: 593,285 VND. Số lượng tồn kho: 306."
+  },
+  {
+    "instruction": "Kiểm tra tình trạng tồn kho của sản phẩm.",
+    "input": "Mã sản phẩm: P090",
+    "output": "Sản phẩm: Sản phẩm 90 còn 306 sản phẩm trong kho."
+  },
+  {
+    "instruction": "Viết mô tả marketing cho sản phẩm.",
+    "input": "Mã sản phẩm: P090",
+    "output": "Khám phá Sản phẩm 90 với mô tả sản phẩm 90 với tính năng độc đáo. Chỉ với 593,285 VND, đây là lựa chọn hoàn hảo cho bạn!"
+  },
+  {
+    "instruction": "Cung cấp thông tin về sản phẩm theo mã SKU.",
+    "input": "Mã sản phẩm: P091",
+    "output": "Sản phẩm: Sản phẩm 91. Mô tả: Mô tả sản phẩm 91 với tính năng độc đáo.. Giá: 362,577 VND. Số lượng tồn kho: 178."
+  },
+  {
+    "instruction": "Kiểm tra tình trạng tồn kho của sản phẩm.",
+    "input": "Mã sản phẩm: P091",
+    "output": "Sản phẩm: Sản phẩm 91 còn 178 sản phẩm trong kho."
+  },
+  {
+    "instruction": "Viết mô tả marketing cho sản phẩm.",
+    "input": "Mã sản phẩm: P091",
+    "output": "Khám phá Sản phẩm 91 với mô tả sản phẩm 91 với tính năng độc đáo. Chỉ với 362,577 VND, đây là lựa chọn hoàn hảo cho bạn!"
+  },
+  {
+    "instruction": "Cung cấp thông tin về sản phẩm theo mã SKU.",
+    "input": "Mã sản phẩm: P092",
+    "output": "Sản phẩm: Sản phẩm 92. Mô tả: Mô tả sản phẩm 92 với tính năng độc đáo.. Giá: 536,659 VND. Số lượng tồn kho: 257."
+  },
+  {
+    "instruction": "Kiểm tra tình trạng tồn kho của sản phẩm.",
+    "input": "Mã sản phẩm: P092",
+    "output": "Sản phẩm: Sản phẩm 92 còn 257 sản phẩm trong kho."
+  },
+  {
+    "instruction": "Viết mô tả marketing cho sản phẩm.",
+    "input": "Mã sản phẩm: P092",
+    "output": "Khám phá Sản phẩm 92 với mô tả sản phẩm 92 với tính năng độc đáo. Chỉ với 536,659 VND, đây là lựa chọn hoàn hảo cho bạn!"
+  },
+  {
+    "instruction": "Cung cấp thông tin về sản phẩm theo mã SKU.",
+    "input": "Mã sản phẩm: P093",
+    "output": "Sản phẩm: Sản phẩm 93. Mô tả: Mô tả sản phẩm 93 với tính năng độc đáo.. Giá: 266,689 VND. Số lượng tồn kho: 184."
+  },
+  {
+    "instruction": "Kiểm tra tình trạng tồn kho của sản phẩm.",
+    "input": "Mã sản phẩm: P093",
+    "output": "Sản phẩm: Sản phẩm 93 còn 184 sản phẩm trong kho."
+  },
+  {
+    "instruction": "Viết mô tả marketing cho sản phẩm.",
+    "input": "Mã sản phẩm: P093",
+    "output": "Khám phá Sản phẩm 93 với mô tả sản phẩm 93 với tính năng độc đáo. Chỉ với 266,689 VND, đây là lựa chọn hoàn hảo cho bạn!"
+  },
+  {
+    "instruction": "Cung cấp thông tin về sản phẩm theo mã SKU.",
+    "input": "Mã sản phẩm: P094",
+    "output": "Sản phẩm: Sản phẩm 94. Mô tả: Mô tả sản phẩm 94 với tính năng độc đáo.. Giá: 452,404 VND. Số lượng tồn kho: 113."
+  },
+  {
+    "instruction": "Kiểm tra tình trạng tồn kho của sản phẩm.",
+    "input": "Mã sản phẩm: P094",
+    "output": "Sản phẩm: Sản phẩm 94 còn 113 sản phẩm trong kho."
+  },
+  {
+    "instruction": "Viết mô tả marketing cho sản phẩm.",
+    "input": "Mã sản phẩm: P094",
+    "output": "Khám phá Sản phẩm 94 với mô tả sản phẩm 94 với tính năng độc đáo. Chỉ với 452,404 VND, đây là lựa chọn hoàn hảo cho bạn!"
+  },
+  {
+    "instruction": "Cung cấp thông tin về sản phẩm theo mã SKU.",
+    "input": "Mã sản phẩm: P095",
+    "output": "Sản phẩm: Sản phẩm 95. Mô tả: Mô tả sản phẩm 95 với tính năng độc đáo.. Giá: 424,635 VND. Số lượng tồn kho: 104."
+  },
+  {
+    "instruction": "Kiểm tra tình trạng tồn kho của sản phẩm.",
+    "input": "Mã sản phẩm: P095",
+    "output": "Sản phẩm: Sản phẩm 95 còn 104 sản phẩm trong kho."
+  },
+  {
+    "instruction": "Viết mô tả marketing cho sản phẩm.",
+    "input": "Mã sản phẩm: P095",
+    "output": "Khám phá Sản phẩm 95 với mô tả sản phẩm 95 với tính năng độc đáo. Chỉ với 424,635 VND, đây là lựa chọn hoàn hảo cho bạn!"
+  },
+  {
+    "instruction": "Cung cấp thông tin về sản phẩm theo mã SKU.",
+    "input": "Mã sản phẩm: P096",
+    "output": "Sản phẩm: Sản phẩm 96. Mô tả: Mô tả sản phẩm 96 với tính năng độc đáo.. Giá: 282,130 VND. Số lượng tồn kho: 248."
+  },
+  {
+    "instruction": "Kiểm tra tình trạng tồn kho của sản phẩm.",
+    "input": "Mã sản phẩm: P096",
+    "output": "Sản phẩm: Sản phẩm 96 còn 248 sản phẩm trong kho."
+  },
+  {
+    "instruction": "Viết mô tả marketing cho sản phẩm.",
+    "input": "Mã sản phẩm: P096",
+    "output": "Khám phá Sản phẩm 96 với mô tả sản phẩm 96 với tính năng độc đáo. Chỉ với 282,130 VND, đây là lựa chọn hoàn hảo cho bạn!"
+  },
+  {
+    "instruction": "Cung cấp thông tin về sản phẩm theo mã SKU.",
+    "input": "Mã sản phẩm: P097",
+    "output": "Sản phẩm: Sản phẩm 97. Mô tả: Mô tả sản phẩm 97 với tính năng độc đáo.. Giá: 311,190 VND. Số lượng tồn kho: 53."
+  },
+  {
+    "instruction": "Kiểm tra tình trạng tồn kho của sản phẩm.",
+    "input": "Mã sản phẩm: P097",
+    "output": "Sản phẩm: Sản phẩm 97 còn 53 sản phẩm trong kho."
+  },
+  {
+    "instruction": "Viết mô tả marketing cho sản phẩm.",
+    "input": "Mã sản phẩm: P097",
+    "output": "Khám phá Sản phẩm 97 với mô tả sản phẩm 97 với tính năng độc đáo. Chỉ với 311,190 VND, đây là lựa chọn hoàn hảo cho bạn!"
+  },
+  {
+    "instruction": "Cung cấp thông tin về sản phẩm theo mã SKU.",
+    "input": "Mã sản phẩm: P098",
+    "output": "Sản phẩm: Sản phẩm 98. Mô tả: Mô tả sản phẩm 98 với tính năng độc đáo.. Giá: 269,806 VND. Số lượng tồn kho: 184."
+  },
+  {
+    "instruction": "Kiểm tra tình trạng tồn kho của sản phẩm.",
+    "input": "Mã sản phẩm: P098",
+    "output": "Sản phẩm: Sản phẩm 98 còn 184 sản phẩm trong kho."
+  },
+  {
+    "instruction": "Viết mô tả marketing cho sản phẩm.",
+    "input": "Mã sản phẩm: P098",
+    "output": "Khám phá Sản phẩm 98 với mô tả sản phẩm 98 với tính năng độc đáo. Chỉ với 269,806 VND, đây là lựa chọn hoàn hảo cho bạn!"
+  },
+  {
+    "instruction": "Cung cấp thông tin về sản phẩm theo mã SKU.",
+    "input": "Mã sản phẩm: P099",
+    "output": "Sản phẩm: Sản phẩm 99. Mô tả: Mô tả sản phẩm 99 với tính năng độc đáo.. Giá: 500,165 VND. Số lượng tồn kho: 28."
+  },
+  {
+    "instruction": "Kiểm tra tình trạng tồn kho của sản phẩm.",
+    "input": "Mã sản phẩm: P099",
+    "output": "Sản phẩm: Sản phẩm 99 còn 28 sản phẩm trong kho."
+  },
+  {
+    "instruction": "Viết mô tả marketing cho sản phẩm.",
+    "input": "Mã sản phẩm: P099",
+    "output": "Khám phá Sản phẩm 99 với mô tả sản phẩm 99 với tính năng độc đáo. Chỉ với 500,165 VND, đây là lựa chọn hoàn hảo cho bạn!"
+  },
+  {
+    "instruction": "Cung cấp thông tin về sản phẩm theo mã SKU.",
+    "input": "Mã sản phẩm: P100",
+    "output": "Sản phẩm: Sản phẩm 100. Mô tả: Mô tả sản phẩm 100 với tính năng độc đáo.. Giá: 696,308 VND. Số lượng tồn kho: 117."
+  },
+  {
+    "instruction": "Kiểm tra tình trạng tồn kho của sản phẩm.",
+    "input": "Mã sản phẩm: P100",
+    "output": "Sản phẩm: Sản phẩm 100 còn 117 sản phẩm trong kho."
+  },
+  {
+    "instruction": "Viết mô tả marketing cho sản phẩm.",
+    "input": "Mã sản phẩm: P100",
+    "output": "Khám phá Sản phẩm 100 với mô tả sản phẩm 100 với tính năng độc đáo. Chỉ với 696,308 VND, đây là lựa chọn hoàn hảo cho bạn!"
+  }
+]

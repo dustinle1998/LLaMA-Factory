@@ -1,4 +1,13 @@
 {
+  "ecommerce_pretrain_dataset": {
+    "file_name": "ecommerce_pretrain_dataset.json",
+    "columns": {
+      "prompt": "text"
+    }
+  },
+  "ecommerce_finetune_dataset": {
+    "file_name": "ecommerce_finetune_dataset.json"
+  },
   "identity": {
     "file_name": "identity.json"
   },
